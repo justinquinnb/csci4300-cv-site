@@ -20,6 +20,10 @@ p {
     color: #1E1E1E;
 }
 
+p, a, li, h3 {
+    line-height: 1.4;
+}
+
 .fa-square-linkedin {
     transform: translateY(8px);
     color: #302525;
